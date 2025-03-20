@@ -48,3 +48,10 @@ To run this project locally:
    ```sh
     cd Benjamin-Maher-Portfolio
 3. Open index.html in your browser.
+
+## 📬 Contact
+- **📧 Email:** benjamin.maher813@gmail.com
+- **🔗 LinkedIn:** https://www.linkedin.com/in/bmaher51/
+- **🐙 GitHub:** https://github.com/Golani51
+## 📄 License
+This project is licensed under the MIT License – feel free to fork and modify!
